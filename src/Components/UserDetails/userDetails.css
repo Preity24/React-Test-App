@@ -1,0 +1,29 @@
+.detailsPage h1{
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+.detailsPage form{
+    margin: 50px auto 0 auto;;
+}
+.textRow input{
+    padding: 5px;
+    width: 20%;
+}
+.radioRow span{
+    font-weight: bold;
+}
+.radioRow .form-check{
+   float: left;
+   width: 30%;
+}
+.radioRow .form-check label{
+    padding-left: 10px;
+    font-weight: normal;
+}
+.stateRow select{
+    width: 20%;
+}
+.detailsPage .form-row .form-group{
+    margin-bottom: 30px;
+}

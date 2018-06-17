@@ -1,0 +1,18 @@
+.landing h1{
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+.button {
+    background-color: #31b0d5;
+    width: 210px;
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 20px;
+    margin: 10% auto 0 auto;
+    text-align: center;
+  }
+.button a{
+    color: #fff;
+    text-decoration: none;
+}
